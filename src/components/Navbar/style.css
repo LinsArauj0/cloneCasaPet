@@ -1,0 +1,23 @@
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    color: #fff;
+    background-color:#734C2D;
+    font-size: 17.5px;
+    font-weight: bold;
+    width: 100%;
+    margin: 0;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+li:hover{
+    background-color: #FCB042;
+    height: 100%;
+}
+
+
