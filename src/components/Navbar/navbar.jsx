@@ -8,7 +8,7 @@ export default function NavBar() {
     return (
         <nav className="navbar navbar-expand-md fixed-top">
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Alterna navegação">
-                <span className="navbar-toggler-icon"></span>
+                <span className="bi bi-list"></span>
             </button>
             <div  className="collapse navbar-collapse justify-content-center" id="navbarTogglerDemo01">
                 {/* <a className="navbar-brand" href="#">Casa Pet</a> */}

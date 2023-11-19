@@ -12,7 +12,7 @@ a {
     margin: 0;
     padding: 0%;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 li:hover{
@@ -20,4 +20,6 @@ li:hover{
     height: 100%;
 }
 
-
+.bi {
+    font-size: 1.7rem;
+}
